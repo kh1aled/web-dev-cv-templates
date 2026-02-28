@@ -21,8 +21,9 @@ Backend/
 Includes CVs related to my backend experience:
 
 PHP / Laravel
+Full Stack .NET Developer specialized in **ASP.NET Core & React**
 
-SQL
+SQL Server
 
 Node.js
 
